@@ -17,3 +17,4 @@ ReturnHackClubInfo();
 // Parameters are variables used in function creation. Arguments are values passed to a function if it's called. For example:
 function returnPrizes(prizes) {
  return `Here are the Hack Club prizes: ${prizes}`
+}
